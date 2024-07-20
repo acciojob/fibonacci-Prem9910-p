@@ -3,11 +3,12 @@ function fibonacci(num) {
 	let a=0,b=1,c=0;
 	for (let i = 0; i < num; i++) {
 		c=a+b;
-			console.loge(c);
+			
 		a=b;
 		b=c;
 		
 	}
+	console.loge(c);
 
 }
 
