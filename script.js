@@ -8,7 +8,7 @@ function fibonacci(num) {
 		b=c;
 		
 	}
-	console.loge(c);
+	return c;
 
 }
 
